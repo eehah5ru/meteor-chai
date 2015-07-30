@@ -11,7 +11,7 @@ Package.onUse(function (api) {
 
     api.use(['meteor', 'coffeescript']);
 
-    api.addFiles(['chai-2.1.0.js', 'chai-string-1.1.1.js', 'config.coffee', 'exports.js']);
+  api.addFiles(['chai-2.1.0.js', 'chai-string-1.1.1.js', 'config.coffee', 'exports.js', 'chai-as-promised.js']);
 
     api.export(['chai','assert','expect','should']);
 });

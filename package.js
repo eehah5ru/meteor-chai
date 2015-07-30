@@ -1,8 +1,8 @@
 Package.describe({
-    name: "practicalmeteor:chai",
+    name: "eehah5ru:chai",
     summary: "The Chai Assertion Library, v2.1.0",
     version: "2.1.0_1",
-    git: "https://github.com/practicalmeteor/meteor-chai.git"
+    git: "https://github.com/eehah5ru/meteor-chai.git"
 });
 
 
